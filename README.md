@@ -54,6 +54,7 @@ TF-IDF is slightly better overall, but SBERT is more reliable on obfuscated mess
 │   └── SMSSpamCollection.tsv         UCI SMS Spam Collection (backup copy)
 ├── results/                          tables saved by the notebook (dev tuning, test results, subsets, errors)
 ├── figures/                          plots from the notebook
+├── Presentation_Group9.pdf           presentation slides
 ├── Proposal_Group9.pdf               approved project proposal
 ├── requirements.txt
 └── README.md
