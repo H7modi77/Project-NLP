@@ -108,6 +108,7 @@ Project-NLP/
 ├── figures/                          plots from the notebook
 ├── assets/                           university logo
 ├── docs/
+│   ├── Report_Group9.docx            project report (A4, Word)
 │   ├── Proposal_Group9.pdf           approved project proposal
 │   └── Presentation_Group9.pdf       presentation slides
 ├── requirements.txt
