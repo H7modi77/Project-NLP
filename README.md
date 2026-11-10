@@ -41,11 +41,23 @@ Locally: `pip install -r requirements.txt` then run the notebook in Jupyter.
 
 TF-IDF is slightly better overall, but SBERT is more reliable on obfuscated messages. Full error analysis and discussion are in the notebook.
 
+<p align="center">
+  <img src="figures/confusion_matrices.png" width="640"><br>
+  <img src="figures/macro_f1_by_subset.png" width="520">
+  <img src="figures/leet_spam_recall.png" width="400">
+</p>
+
 ## Repo contents
-- `SMS_Spam_Detection_Group9.ipynb` - the full notebook (with outputs)
-- `requirements.txt`
-- `README.md`
-- `Proposal_Group9.pdf` - the approved project proposal
+```
+├── SMS_Spam_Detection_Group9.ipynb   full notebook (with outputs)
+├── data/
+│   └── SMSSpamCollection.tsv         UCI SMS Spam Collection (backup copy)
+├── results/                          tables saved by the notebook (dev tuning, test results, subsets, errors)
+├── figures/                          plots from the notebook
+├── Proposal_Group9.pdf               approved project proposal
+├── requirements.txt
+└── README.md
+```
 
 ## References
 [1] T. A. Almeida, J. M. G. Hidalgo, and A. Yamakami, "Contributions to the study of SMS spam filtering: new collection and results," Proc. DocEng, 2011, pp. 259-262.

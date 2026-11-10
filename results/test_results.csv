@@ -1,0 +1,3 @@
+method,accuracy,macro_F1
+M1: TF-IDF + LR,0.9845,0.964
+M2: SBERT + LR,0.978,0.9501
