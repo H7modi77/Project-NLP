@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/iau_logo_white.png">
+    <img src="assets/iau_logo.png" alt="Imam Abdulrahman Bin Faisal University" width="420">
+  </picture>
+</p>
+
 # SMS Spam Detection: TF-IDF vs Sentence-BERT
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/H7modi77/Project-NLP/blob/main/SMS_Spam_Detection_Group9.ipynb)
@@ -99,6 +106,7 @@ Project-NLP/
 │   ├── leet_test.csv
 │   └── test_errors.csv
 ├── figures/                          plots from the notebook
+├── assets/                           university logo
 ├── docs/
 │   ├── Proposal_Group9.pdf           approved project proposal
 │   └── Presentation_Group9.pdf       presentation slides
