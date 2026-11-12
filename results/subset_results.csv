@@ -1,9 +1,0 @@
-subset,n,n_spam,method,accuracy,macro_F1,errors
-full test,774,96,M1: TF-IDF + LR,0.9845,0.964,12
-full test,774,96,M2: SBERT + LR,0.978,0.9501,17
-challenge (all 4 rules),205,81,M1: TF-IDF + LR,0.9561,0.9538,9
-challenge (all 4 rules),205,81,M2: SBERT + LR,0.9707,0.9694,6
-obfuscated only (rules 1-3),184,73,M1: TF-IDF + LR,0.962,0.9598,7
-obfuscated only (rules 1-3),184,73,M2: SBERT + LR,0.9837,0.9829,3
-not flagged,569,15,M1: TF-IDF + LR,0.9947,0.9503,3
-not flagged,569,15,M2: SBERT + LR,0.9807,0.8284,11
