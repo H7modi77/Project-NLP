@@ -16,7 +16,7 @@ Instructor: Dr. Mohammed Mosuily
 | File | Description |
 |---|---|
 | `SMS_Spam_Detection_Group9.ipynb` | Notebook: Setup, Data, Method 1, Method 2, Results, Try it, Sources |
-| `Report_Group9.docx` | Project report |
+| `Report_Group9.pdf` | Project report |
 | `Presentation_Group9.pdf` | Presentation slides |
 
 To run the notebook, open it in Google Colab and choose *Runtime → Run all*.
