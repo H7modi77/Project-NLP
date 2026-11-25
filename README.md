@@ -16,8 +16,8 @@ Instructor: Dr. Mohammed Mosuily
 | File | Description |
 |---|---|
 | `SMS_Spam_Detection_Group9.ipynb` | Notebook: Setup, Data, Method 1, Method 2, Results, Try it, Sources |
-| `Report_Group9.pdf` | Project report |
-| `Presentation_Group9.pdf` | Presentation slides |
+| `Report_Group9.pdf` | Project report (seven-section outline) |
+| `Presentation_Group9.pptx` | Presentation slides (PowerPoint) |
 | `data/SMSSpamCollection.tsv` | Dataset used in the project |
 
 ## Dataset
