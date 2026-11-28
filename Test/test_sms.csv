@@ -1,0 +1,21 @@
+message,expected_label,type
+Hey! How are you? Hope you're doing well ❤️,ham,own example
+"Congratulations! Your number has been selected to win a cash prize of 5,000 SAR. Click here to claim your prize now!",spam,own example
+"Assalamu alaikum, how are you doing? Hope to see you soon inshallah",ham,own example
+Congrats! You won a FREE iPhone 17! Click the link to confirm your details and get your prize,spam,own example
+C0ngr4ts! Y0u'v3 b33n ch0s3n t0 r3c31v3 a $500 g1ft c4rd.,spam,"own example, obfuscated"
+Cl@im y0ur c4sh rew4rd n0w b3f0r3 1t's g0n3!,spam,"own example, obfuscated"
+"H3y, c4n y0u s3nd m3 th3 f1l3 b3f0r3 t0m0rr0w's cl4ss?",ham,"own example, obfuscated"
+"I'll b3 l4t3 t0d4y, pl34s3 w41t f0r m3.",ham,"own example, obfuscated"
+WINNER!! You have won a 1000 cash prize. Call 09061701461 to claim now,spam,clear spam
+Free entry to win a holiday. Text WIN to 80086 now,spam,clear spam
+Are we still meeting at 7 tonight?,ham,clear ham
+Can you send me the lecture slides please,ham,clear ham
+"Mom said dinner is ready, come home",ham,clear ham
+U h4ve w0n a fr33 pr1ze! txt CLAIM 2 85233,spam,obfuscated
+Ur acc0unt h4s b33n susp3nded. V3rify n0w at www.secure-bank.co,spam,obfuscated
+C4ll m3 wh3n y0u g3t h0me,ham,obfuscated
+"hello, you win today, send number and password",spam,hard case
+I'm at work. Please call,ham,hard case
+The library offers free printing for students this week,ham,hard case
+Your package is waiting. Pay the delivery fee here: bit.ly/pkg-fee,spam,hard case
